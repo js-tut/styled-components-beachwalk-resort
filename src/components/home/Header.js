@@ -13,6 +13,9 @@ const Header = () => {
         text="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi provident eos sapiente deleniti in quisquam."
       >
         <PrimaryBtn t="1rem">view details</PrimaryBtn>
+        {/* <PrimaryBtn as="a" href="https://www.google.com">
+          view details
+        </PrimaryBtn> */}
       </Banner>
     </Hero>
   );
